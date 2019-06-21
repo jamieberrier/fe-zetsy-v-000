@@ -3,7 +3,7 @@
 /* link the web font used for the level 1 heading here */
 @font-face {
   font-family: baskerville;
-  src: url('https://s3.amazonaws.com/learn-verified/baskerville.ttc');
+  src: url('https://s3.amazonaws.com/learn-verified/Baskerville.ttc');
 }
 
 /*////////// Global Styles //////////*/
