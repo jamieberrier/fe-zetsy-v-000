@@ -63,6 +63,7 @@ header a:hover {
 }
 
 #featured a {
+  transition: color 2s ease-out;
 	color: #1783bb;
 	text-decoration: none;
 }
