@@ -55,6 +55,7 @@ header a {
 }
 
 header a:hover {
+  color: black;
 	/*color: rgb(111,127,122);*/
 }
 
